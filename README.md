@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gorbulev-Sergey
-- 👀 I’m like c#, blazor, and entity framework
+- 👀 I’m like svelte-kit, c#, blazor, and entity framework
 - 🌱 I’m currently learning svelte, js and firebase
 
 <!---

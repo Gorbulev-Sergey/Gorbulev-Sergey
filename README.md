@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gorbulev-Sergey
 - 👀 I’m like svelte-kit, c#, entity framework and android development
-- 🌱 I’m currently learning svelte-kit, js and firebase, java for android
+- 🌱 I’m currently learning kotlin
 
 <!---
 Gorbulev-Sergey/Gorbulev-Sergey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Gorbulev-Sergey
-- 👀 I’m like svelte-kit, c#, entity framework and android development
-- 🌱 I’m currently learning kotlin
+Hi, I’m @Gorbulev-Sergey.
+I like svelte-kit, c# and jetpack compose.
 
 <!---
 Gorbulev-Sergey/Gorbulev-Sergey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
